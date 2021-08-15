@@ -27,13 +27,13 @@
 
 ### UML
 Activity Diagram
-![Activity Diagram](screenshots/activity_diagram.png)
+![Activity Diagram](uml/activity_diagram.png)
 
 Class Diagram
-![Class Diagram](screenshots/class_diagram.png)
+![Class Diagram](uml/class_diagram.png)
 
 Sequence Diagram
-![Sequence Diagram](screenshots/sequence_diagram.png)
+![Sequence Diagram](uml/sequence_diagram.png)
 
 State Diagram
-![State Diagram](screenshots/state_diagram.png)
+![State Diagram](uml/state_diagram.png)
